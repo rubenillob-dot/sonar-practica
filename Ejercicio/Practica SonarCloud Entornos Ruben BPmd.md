@@ -1,11 +1,5 @@
 # Practica SonarCloud Entornos
 
-Clase: Entornos de Desarrollo a papel (https://www.notion.so/Entornos-de-Desarrollo-a-papel-27f981b058b9819b9cb4ffb3e39514ac?pvs=21)
-Estado: Completado
-Tipo: Entrega
-Fecha de Entrega: 28 de mayo de 2026
-Fecha de Finalización: 25 de mayo de 2026 16:34 (CEST)
-
 ### PASO 1: Preparación en GitHub (Crear el almacén de código)
 
 *¿Qué es esto?* GitHub es una web donde guardas tu código. Vamos a crear un "Repositorio" (una carpeta online) para esta práctica.
